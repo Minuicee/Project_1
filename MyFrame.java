@@ -23,12 +23,7 @@ public class MyFrame extends JFrame implements KeyListener, ActionListener, Mous
 	
 	
 	
-	/*
-	TO-DO:
-	- score color changes
-	- languages setting
-	- levels
-	*/
+
 	
 	
 	Random random = new Random();
